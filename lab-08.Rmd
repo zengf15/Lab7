@@ -1,5 +1,5 @@
 ---
-title: "Lab 08 - Conveying the right message through visualisation"
+title: "Lab 07 - Conveying the right message through visualisation"
 author: "Insert your name here"
 date: "Insert date here"
 output: github_document
